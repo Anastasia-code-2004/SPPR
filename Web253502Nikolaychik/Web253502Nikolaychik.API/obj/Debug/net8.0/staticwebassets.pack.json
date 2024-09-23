@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\wwwroot\\images\\apple.jpg",
+      "PackagePath": "staticwebassets\\images\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\wwwroot\\images\\chicken-breast.jpg",
+      "PackagePath": "staticwebassets\\images\\chicken-breast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\wwwroot\\images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\images\\default-profile-picture.png"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\wwwroot\\images\\milk.jpg",
+      "PackagePath": "staticwebassets\\images\\milk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\wwwroot\\images\\white-bread.jpg",
+      "PackagePath": "staticwebassets\\images\\white-bread.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web253502Nikolaychik.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web253502Nikolaychik.API.props",
+      "PackagePath": "build\\Web253502Nikolaychik.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web253502Nikolaychik.API.props",
+      "PackagePath": "buildMultiTargeting\\Web253502Nikolaychik.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web253502Nikolaychik.API.props",
+      "PackagePath": "buildTransitive\\Web253502Nikolaychik.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\bin\Debug\net8.0\Web253502Nikolaychik.Domain.deps.json
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\bin\Debug\net8.0\Web253502Nikolaychik.Domain.dll
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\bin\Debug\net8.0\Web253502Nikolaychik.Domain.pdb
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.AssemblyInfoInputs.cache
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.AssemblyInfo.cs
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.csproj.CoreCompileInputs.cache
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.dll
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\refint\Web253502Nikolaychik.Domain.dll
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\Web253502Nikolaychik.Domain.pdb
+C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Web253502Nikolaychik.Domain\obj\Debug\net8.0\ref\Web253502Nikolaychik.Domain.dll
