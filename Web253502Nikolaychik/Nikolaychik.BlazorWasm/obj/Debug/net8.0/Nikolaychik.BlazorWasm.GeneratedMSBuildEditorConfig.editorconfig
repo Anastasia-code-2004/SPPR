@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Nikolaychik.BlazorWasm
+build_property.RootNamespace = Nikolaychik.BlazorWasm
+build_property.ProjectDir = C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Nikolaychik.BlazorWasm\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\naaan\source\repos\SPPR\Web253502Nikolaychik\Nikolaychik.BlazorWasm
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Layout/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/CategorySelector.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Commodities.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbW9kaXRpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/CommodityDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbW9kaXR5RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/CommodityList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbW9kaXR5TGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Pager.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6tug6bhpek
+
+[C:/Users/naaan/source/repos/SPPR/Web253502Nikolaychik/Nikolaychik.BlazorWasm/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4s3sfn9plf

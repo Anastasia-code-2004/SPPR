@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web253502Nikolaychik.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aff6f97ad532bf22ac9066672e1bbf90a755537")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web253502Nikolaychik.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web253502Nikolaychik.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

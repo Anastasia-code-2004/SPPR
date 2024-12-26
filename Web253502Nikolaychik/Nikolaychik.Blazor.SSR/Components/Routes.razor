@@ -1,0 +1,10 @@
+﻿<Router AppAssembly="typeof(Program).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="routeData" DefaultLayout="typeof(Layout.MainLayout)" />
+        <FocusOnNavigate RouteData="routeData" Selector="h1" />
+    </Found>
+</Router>
+
+<!-- Router — это компонент маршрутизации в Blazor. Он определяет, как маршруты (URLs) сопоставляются с компонентами в приложении.-->
+<!-- Found — это блок, который рендерится, если URL соответствует какому-либо маршруту.
+     Context="routeData" — предоставляет данные маршрута в текущем контексте.  -->

@@ -109,6 +109,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Web253502Nikolaychik.API.Controllers.FilesController",
+    "Method": "SaveFile",
+    "RelativePath": "api/Files",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web253502Nikolaychik.API.Controllers.FilesController",
+    "Method": "DeleteFile",
+    "RelativePath": "api/Files",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Web253502Nikolaychik.API.Controllers.ProductController",
     "Method": "PostCommodity",
     "RelativePath": "api/Product",
@@ -125,6 +157,42 @@
     "ReturnTypes": [
       {
         "Type": "Web253502Nikolaychik.Domain.Entities.Commodity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Web253502Nikolaychik.API.Controllers.ProductController",
+    "Method": "GetCommodities",
+    "RelativePath": "api/Product/{category}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageNo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Web253502Nikolaychik.Domain.Models.ResponseData\u00601[[System.Collections.Generic.List\u00601[[Web253502Nikolaychik.Domain.Entities.Commodity, Web253502Nikolaychik.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -208,42 +276,6 @@
     "ReturnTypes": [
       {
         "Type": "Web253502Nikolaychik.Domain.Models.ResponseData\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Web253502Nikolaychik.API.Controllers.ProductController",
-    "Method": "GetCommodities",
-    "RelativePath": "api/Product/category/{category}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "category",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "pageNo",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "pageSize",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Web253502Nikolaychik.Domain.Models.ResponseData\u00601[[System.Collections.Generic.List\u00601[[Web253502Nikolaychik.Domain.Entities.Commodity, Web253502Nikolaychik.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

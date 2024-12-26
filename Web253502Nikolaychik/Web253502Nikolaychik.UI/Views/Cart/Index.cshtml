@@ -1,12 +1,52 @@
 ﻿@{
     ViewBag.Title = "Index";
 }
-<main class="container">
-    <div class="mb-4">
-        <h2 class="fw-bold">Корзина</h2>
-        <ol type="A">
-            <li>Product 0</li>
-            <li>Product 1</li>
-        </ol>
-    </div>
-</main>
+@model Web253502Nikolaychik.Domain.Entities.Cart
+<h2>Корзина</h2>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Количество</th>
+            <th>Продукт</th>
+            <th class="text-right">Цена</th>
+            <th class="text-right">Сумма</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model?.CartItems.Values ?? Enumerable.Empty<CartItem>())
+        {
+            <tr>
+                <td class="text-center">@item.Amount</td>
+                <td class="text-left">
+                    <img src="@item.Commodity.Image" alt="@item.Commodity.Name" style="max-width: 50px; max-height: 50px;" />
+                    @item.Commodity.Name
+                </td>
+                <td class="text-right">@item.Commodity.Price.ToString("c")</td>
+                <td class="text-right">
+                    @((item.Amount * item.Commodity.Price).ToString("c"))
+                </td>
+                <td class="text-center">
+                    <form asp-controller="Cart" asp-action="Remove" method="post" asp-route-id="@item.Commodity.Id" 
+                                                asp-route-returnUrl="@Url.Action("Index", "Cart")">
+                        <button type="submit" class="btn btn-sm btn-danger">
+                            Удалить
+                        </button>
+                    </form>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Общая сумма:</td>
+            <td class="text-right">
+                @Model?.TotalCost.ToString("c")
+            </td>
+        </tr>
+    </tfoot>
+</table>
+<div class="text-center">
+    <a class="btn btn-primary" href="@Url.Action("Index", "Product" )">Продолжить покупки</a>
+</div>

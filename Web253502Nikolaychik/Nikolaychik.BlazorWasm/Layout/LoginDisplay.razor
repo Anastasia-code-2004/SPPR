@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@inject NavigationManager Navigation
+
+<AuthorizeView>
+    <Authorized>
+        Hello, @context.User.Claims.FirstOrDefault(c => c.Type.Equals("preferred_username", StringComparison.OrdinalIgnoreCase))?.Value!
+        <button class="nav-link btn btn-link" @onclick="BeginLogOut">Log out</button>
+    </Authorized>
+    <NotAuthorized>
+        <a href="authentication/login">Log in</a>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code{
+    public void BeginLogOut()
+    {
+        Navigation.NavigateToLogout("authentication/logout");
+    }
+}
+
+<!-- В данном примере, context — это объект типа AuthenticationState, который доступен внутри компонента 
+`<AuthorizeView />. Он предоставляет информацию о текущем пользователе и его состоянии аутентификации, 
+включая данные о его идентичности (например, имя пользователя, роли, и прочие клеймы). -->

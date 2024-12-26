@@ -34,7 +34,7 @@ namespace Web253502Nikolaychik.API.Controllers
         }
 
         // GET: api/Category/5
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
             var category = await _context.Categories.FindAsync(id);
@@ -49,7 +49,7 @@ namespace Web253502Nikolaychik.API.Controllers
 
         // PUT: api/Category/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
+        [HttpPut("{id:int}")]
         public async Task<IActionResult> PutCategory(int id, Category category)
         {
             if (id != category.Id)
@@ -90,7 +90,7 @@ namespace Web253502Nikolaychik.API.Controllers
         }
 
         // DELETE: api/Category/5
-        [HttpDelete("{id}")]
+        [HttpDelete("{id:int}")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             var category = await _context.Categories.FindAsync(id);

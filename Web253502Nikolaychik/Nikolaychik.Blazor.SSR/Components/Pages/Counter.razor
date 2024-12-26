@@ -1,0 +1,50 @@
+﻿@page "/counter"
+@page "/counter/{CurrentCount:int}"
+@rendermode InteractiveServer 
+<!-- В режиме InteractiveServer приложение использует SignalR для интерактивности между клиентом и сервером. -->
+
+@using System.ComponentModel.DataAnnotations
+@using Nikolaychik.Blazor.SSR.Components.Models
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<EditForm Model="@counterModel" OnValidSubmit="SetCounter">
+    <DataAnnotationsValidator /> <!-- Работает с любым объектом модели, который содержит атрибуты валидации, такие как [Required], 
+                                      [Range], [StringLength] -->
+    <ValidationSummary /><!-- Показывает сообщения об ошибках валидации -->
+
+    <div>
+        <label>Set Counter Value:</label>
+        <InputNumber @bind-Value="counterModel.CounterValue" class="form-control" /> <!-- Двусторонняя привязка данных -->
+    </div>
+    <button class="btn btn-primary" type="submit">Set</button>
+</EditForm>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    [Parameter]
+    public int CurrentCount { get; set; }
+
+    private int currentCount;
+    private CounterModel counterModel = new CounterModel();
+
+    protected override void OnInitialized()
+    {
+        currentCount = CurrentCount;
+    }
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void SetCounter()
+    {
+        currentCount = counterModel.CounterValue;
+    }
+}

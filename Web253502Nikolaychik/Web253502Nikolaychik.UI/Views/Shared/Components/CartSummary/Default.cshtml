@@ -1,3 +1,4 @@
-﻿<a asp-controller="Cart" asp-action="Index" class="navbar-text ms-auto">
-    00,0 руб <i class="fa-solid fa-cart-shopping"></i> (0)
+﻿@model Web253502Nikolaychik.Domain.Entities.Cart
+<a asp-controller="Cart" asp-action="Index" class="navbar-text ms-auto">
+    @Model.TotalCost.ToString("0.00") руб <i class="fa-solid fa-cart-shopping"></i> (@Model.Count)
 </a>

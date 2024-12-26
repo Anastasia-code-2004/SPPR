@@ -1,0 +1,3 @@
+2024-11-16 00:31:24.287 +03:00 [INF] ---> request /WebLabs_BSUIR_V02.styles.css returns 404
+2024-11-16 00:31:34.059 +03:00 [INF] ---> request /WebLabs_BSUIR_V02.styles.css returns 404
+2024-11-16 00:31:40.976 +03:00 [INF] ---> request /Account/AccessDenied returns 404

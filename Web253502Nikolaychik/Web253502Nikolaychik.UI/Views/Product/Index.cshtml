@@ -1,4 +1,5 @@
-﻿@model ListModel<Commodity>
+﻿@using Web253502Nikolaychik.UI.Extensions
+@model ListModel<Commodity>
 @{
     ViewBag.Title = "Index";
     var request = ViewContext.HttpContext.Request;
@@ -39,48 +40,59 @@
                 </ul>
             </div>
         </aside>
-
-        <!-- Правая колонка с карточками товаров -->
         <section class="col-md-9">
-            <div class="row row-cols-1 row-cols-md-3 g-4">
-                @foreach (var item in Model.Items)
-                {
-                    <div class="col">
-                        <div class="card h-100">
-                            <img src="@item.Image" class="card-img-top" alt="@item.Name">
-                            <div class="card-body">
-                                <h5 class="card-title">@item.Name</h5>
-                                <p class="card-text">@item.Description</p>
-                                <p class="card-text"><strong>Цена: @item.Price руб.</strong></p>
-                                <a  asp-controller="cart" asp-action="add" asp-route-id="@item.Id"
-                                    asp-route-returnurl="@returnUrl"
-                                    class="btn btn-outline-primary w-100">
-                                    <i class="fa-solid fa-cart-shopping"></i> Добавить в корзину
-                                </a>
+            <div id="productList" class="row row-cols-1 row-cols-md-3 g-4">
+                @await Html.PartialAsync("_ListPartial", Model)
+            </div>
+        </section>
+        @* @if (request.IsAjaxRequest())
+        {
+            @await Html.PartialAsync("_ListPartial", Model)
+        }
+        else
+        {
+            <!-- Правая колонка с карточками товаров -->
+            <section class="col-md-9">
+                <div class="row row-cols-1 row-cols-md-3 g-4">
+                    @foreach (var item in Model.Items)
+                    {
+                        <div class="col">
+                            <div class="card h-100">
+                                <img src="@item.Image" class="card-img-top" alt="@item.Name">
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.Name</h5>
+                                    <p class="card-text">@item.Description</p>
+                                    <p class="card-text"><strong>Цена: @item.Price руб.</strong></p>
+                                    <a  asp-controller="cart" asp-action="add" asp-route-id="@item.Id"
+                                        asp-route-returnurl="@returnUrl"
+                                        class="btn btn-outline-primary w-100">
+                                        <i class="fa-solid fa-cart-shopping"></i> Добавить в корзину
+                                    </a>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                }
-            </div>
-            <nav aria-label="Page navigation example" class="mt-4">
-                <ul class="pagination">
-                    <li class="page-item">
-                        <a class="page-link" asp-controller="product"
-                           asp-action="index" asp-route-pageNo="@prev" asp-route-category="@category">Предыдущая</a>
-                    </li>
-                    @for(int i = 1; i <= Model.TotalPages; i++)
-                    {
-                        <li class="page-item @(i == currentPage ? "active" : "")">
-                            <a class="page-link" asp-controller="product"
-                               asp-action="index" asp-route-pageNo="@i" asp-route-category="@category">@i</a></li>
                     }
-                    <li class="page-item">
-                        <a class="page-link" asp-controller="product"
-                           asp-action="index" asp-route-pageNo="@next" asp-route-category="@category">Следующая</a>
-                    </li>
-                </ul>
-            </nav>
-        </section>
+                </div>
+                <nav aria-label="Page navigation example" class="mt-4">
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" asp-controller="product"
+                               asp-action="index" asp-route-pageNo="@prev" asp-route-category="@category">Предыдущая</a>
+                        </li>
+                        @for(int i = 1; i <= Model.TotalPages; i++)
+                        {
+                            <li class="page-item @(i == currentPage ? "active" : "")">
+                                <a class="page-link" asp-controller="product"
+                                   asp-action="index" asp-route-pageNo="@i" asp-route-category="@category">@i</a></li>
+                        }
+                        <li class="page-item">
+                            <a class="page-link" asp-controller="product"
+                               asp-action="index" asp-route-pageNo="@next" asp-route-category="@category">Следующая</a>
+                        </li>
+                    </ul>
+                </nav>
+            </section> 
+        } *@
     </div>
     
 </main>

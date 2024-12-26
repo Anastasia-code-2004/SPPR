@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nikolaychik.Blazor.SSR.props" />
+</Project>

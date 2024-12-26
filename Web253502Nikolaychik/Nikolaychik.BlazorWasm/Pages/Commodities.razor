@@ -1,0 +1,28 @@
+﻿@page "/commodities"
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<PageTitle>Продукты</PageTitle>
+<CategorySelector />
+<CommodityList CommoditySelectedItem="OnCommoditySelected" />
+<CommodityDetails SelectedCommodity="SelectedCommodity" />
+<Pager />
+
+
+@code {
+    [Inject] 
+
+    IDataService DataService { get; set; }
+
+    private Commodity SelectedCommodity { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await DataService.GetProductListAsync();
+    }
+
+    private void OnCommoditySelected(int id)
+    {
+        SelectedCommodity = DataService.Commodities.FirstOrDefault(c => c.Id == id);
+    }
+}

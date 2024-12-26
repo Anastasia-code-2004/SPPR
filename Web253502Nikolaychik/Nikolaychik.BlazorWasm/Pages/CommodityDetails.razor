@@ -1,0 +1,22 @@
+﻿@if (SelectedCommodity != null)
+{
+    <div class="card shadow-sm mb-4" style="max-width: 800px; margin: 20px auto;">
+        <div class="row g-0">
+            <div class="col-md-4">
+                <img src="@(SelectedCommodity.Image)" class="img-fluid rounded-start" alt="@SelectedCommodity.Name" />
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h3 class="card-title text-primary">@SelectedCommodity.Name</h3>
+                    <p class="card-text">@SelectedCommodity.Description</p>
+                    <p class="btn btn-outline-primary p-2 disabled" style="font-size: 1.2em;">@SelectedCommodity.Price</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public Commodity SelectedCommodity { get; set; }
+}

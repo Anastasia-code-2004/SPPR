@@ -1,0 +1,48 @@
+﻿@inject IDataService DataService
+@implements IDisposable
+
+@if (!DataService.Success)
+{
+    <p>Error: @DataService.ErrorMessage</p>
+}
+else if (DataService.Commodities is null || !DataService.Commodities.Any())
+{
+    <p>No items found.</p>
+}
+else
+{
+    <div>
+        @foreach (var item in DataService.Commodities)
+        {
+            <div class="border-bottom py-2 d-flex justify-content-between align-items-center">
+                <div>
+                    <p class="fw-bold mb-1">Название</p>
+                    <p class="mb-1">@item.Name</p>
+                </div>
+                <button class="btn btn-outline-primary" @onclick="() => OnSelectCommodity(item.Id)">
+                    <span class="oi oi-eye me-2" title="view details" aria-hidden="true"></span> Подробнее
+                </button>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    [Parameter]
+    public EventCallback<int> CommoditySelectedItem { get; set; }
+
+    private void OnSelectCommodity(int id)
+    {
+        CommoditySelectedItem.InvokeAsync(id);
+    }
+
+    protected override void OnInitialized()
+    {
+        DataService.DataLoaded += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        DataService.DataLoaded -= StateHasChanged;
+    }
+}

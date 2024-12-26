@@ -13,7 +13,7 @@ namespace Web253502Nikolaychik.API.Services.ProductService
         private readonly AppDbContext _context;
         private readonly IWebHostEnvironment _webHostEnvironment;
         private readonly string _baseUrl;
-        private const int _maxPageSize = 20;
+        private const int _maxPageSize = 4;
 
         public ProductService(AppDbContext context, IWebHostEnvironment webHostEnvironment, IOptions<AppSettings> appSettings)
         {
@@ -31,7 +31,9 @@ namespace Web253502Nikolaychik.API.Services.ProductService
 
         public async Task<ResponseData<string>> DeleteProductAsync(int id)
         {
-            var query = _context.Commodities.AsQueryable();
+            var query = _context.Commodities.
+                                        Include(c => c.Category).
+                                        AsQueryable();
             var commodity = await query.FirstOrDefaultAsync(c => c.Id.Equals(id));
             if (commodity is not null)
             {
@@ -44,7 +46,9 @@ namespace Web253502Nikolaychik.API.Services.ProductService
 
         public async Task<ResponseData<Commodity>> GetProductByIdAsync(int id)
         {
-            var query = _context.Commodities.AsQueryable();
+            var query = _context.Commodities.
+                                    Include(c => c.Category).
+                                    AsQueryable();
             var commodity = await query.FirstOrDefaultAsync(c => c.Id.Equals(id));
             
             if (commodity is null)
@@ -60,7 +64,9 @@ namespace Web253502Nikolaychik.API.Services.ProductService
             if (pageSize > _maxPageSize)
                 pageSize = _maxPageSize;
 
-            var query = _context.Commodities.AsQueryable();
+            var query = _context.Commodities.
+                                Include(c => c.Category).
+                                AsQueryable();
             var dataList = new ListModel<Commodity>();
 
             query = query.Where(c => categoryNormalizedName == null || c.Category.NormalizedName.Equals(categoryNormalizedName));
@@ -126,7 +132,9 @@ namespace Web253502Nikolaychik.API.Services.ProductService
 
         public async Task<ResponseData<Commodity>> UpdateProductAsync(int id, Commodity product)
         {
-            var query = _context.Commodities.AsQueryable();
+            var query = _context.Commodities.
+                                    Include(c => c.Category).
+                                    AsQueryable();
             var commodity = await query.FirstOrDefaultAsync(c => c.Id.Equals(id));
             if (commodity is not null)
             {
@@ -134,6 +142,8 @@ namespace Web253502Nikolaychik.API.Services.ProductService
                 commodity.Description = product.Description;
                 commodity.Price = product.Price;
                 commodity.CategoryId = product.CategoryId;
+                commodity.Image = product.Image;
+                commodity.ImageMimeType = product.ImageMimeType;
                 await _context.SaveChangesAsync();
                 return ResponseData<Commodity>.Success(commodity);
             }

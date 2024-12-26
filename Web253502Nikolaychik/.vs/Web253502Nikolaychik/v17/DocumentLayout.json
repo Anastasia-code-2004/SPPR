@@ -3,216 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\productservice\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\commoditylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\commoditylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\commodities.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\commodities.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\extensions\\hostingextensions,.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\extensions\\hostingextensions,.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\commoditydetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\commoditydetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFE1D8D3-024D-4881-9035-A58EAB3886AD}|Nikolaychik.Blazor.SSR\\Nikolaychik.Blazor.SSR.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFE1D8D3-024D-4881-9035-A58EAB3886AD}|Nikolaychik.Blazor.SSR\\Nikolaychik.Blazor.SSR.csproj|solutionrelative:nikolaychik.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\categoryselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\categoryselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|solutionrelative:web253502nikolaychik.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|solutionrelative:web253502nikolaychik.domain\\models\\listmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\layout\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\layout\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\pages\\authentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\categoryservice\\memorycetegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\categoryservice\\memorycetegoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.domain\\entities\\commodity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|solutionrelative:web253502nikolaychik.domain\\entities\\commodity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\migrations\\20240921145238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\migrations\\20240921145238_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|solutionrelative:web253502nikolaychik.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.api\\web253502nikolaychik.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B92A25B5-5CFC-421C-BA03-22F52C36ECB8}|Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj|solutionrelative:web253502nikolaychik.api\\web253502nikolaychik.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\controllers\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.domain\\web253502nikolaychik.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DE61A751-A837-4D71-86B0-72260BA5A6E2}|Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj|solutionrelative:web253502nikolaychik.domain\\web253502nikolaychik.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\viewcomponents\\cartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\viewcomponents\\cartsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\web253502nikolaychik.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B73DC504-DD3D-4D3C-8392-F96BABCAE039}|Web253502Nikolaychik.UI\\Web253502Nikolaychik.UI.csproj|solutionrelative:web253502nikolaychik.ui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|c:\\users\\naaan\\source\\repos\\sppr\\web253502nikolaychik\\nikolaychik.blazorwasm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCD6371-7ED7-4260-A288-F5318CD1D137}|Nikolaychik.BlazorWasm\\Nikolaychik.BlazorWasm.csproj|solutionrelative:nikolaychik.blazorwasm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -222,17 +54,155 @@
       "DocumentGroups": [
         {
           "DockedHeight": 165,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Counter.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:59:15.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategorySelector.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CategorySelector.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\CategorySelector.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CategorySelector.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\CategorySelector.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:29:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Authentication.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Authentication.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\Authentication.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Authentication.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\Authentication.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:43:02.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommodityList.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CommodityList.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\CommodityList.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CommodityList.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\CommodityList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:13:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Commodities.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Commodities.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\Commodities.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Commodities.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\Commodities.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:13:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Nikolaychik.Blazor.SSR\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:08:05.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommodityDetails.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CommodityDetails.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\CommodityDetails.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\CommodityDetails.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\CommodityDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:13:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Home.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:42:56.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pager.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Pager.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Pages\\Pager.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Pages\\Pager.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Pages\\Pager.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:42:59.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDisplay.razor",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Layout\\LoginDisplay.razor",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Layout\\LoginDisplay.razor",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Layout\\LoginDisplay.razor",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Layout\\LoginDisplay.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T09:43:28.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Nikolaychik.BlazorWasm\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\Services\\DataService.cs",
+              "RelativeToolTip": "Nikolaychik.BlazorWasm\\Services\\DataService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwE4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:30:01.368Z"
             }
           ]
         },
         {
           "DockedHeight": 27,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -241,655 +211,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:08:52.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\ApiProductService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\ProductService\\ApiProductService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\ApiProductService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\ProductService\\ApiProductService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAgwFgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:00:47.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Product.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Controllers\\Product.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Product.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Controllers\\Product.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAEwCEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:48:50.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ResponseData.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Models\\ResponseData.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.Domain\\Models\\ResponseData.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Models\\ResponseData.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.Domain\\Models\\ResponseData.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:38:11.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ListModel.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Models\\ListModel.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.Domain\\Models\\ListModel.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Models\\ListModel.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.Domain\\Models\\ListModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:13:00.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Program.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Program.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:46:18.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HostingExtensions,.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Extensions\\HostingExtensions,.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Extensions\\HostingExtensions,.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Extensions\\HostingExtensions,.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Extensions\\HostingExtensions,.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:42:59.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:55:59.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\CategoryService\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Services\\CategoryService\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\CategoryService\\CategoryService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Services\\CategoryService\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:24:44.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\ProductService\\ProductService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Services\\ProductService\\ProductService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\ProductService\\ProductService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Services\\ProductService\\ProductService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAEwFYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T16:11:34.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApiCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\ApiCategoryService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\CategoryService\\ApiCategoryService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\ApiCategoryService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\CategoryService\\ApiCategoryService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCgAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:00:23.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Program.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Program.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Program.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T18:26:09.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:42:42.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T19:09:36.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Extensions\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Extensions\\HostingExtensions.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Extensions\\HostingExtensions.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Extensions\\HostingExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:55:49.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MemoryCetegoryService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\MemoryCetegoryService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\CategoryService\\MemoryCetegoryService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\MemoryCetegoryService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\CategoryService\\MemoryCetegoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:46:53.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Home.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Home.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Controllers\\Home.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Home.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Controllers\\Home.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:37:47.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\AppSettings.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\AppSettings.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\AppSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:16:21.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MemoryProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvzwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:58:31.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\IProductService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\ProductService\\IProductService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\ProductService\\IProductService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\ProductService\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:54:33.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\ProductService\\IProductService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Services\\ProductService\\IProductService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\ProductService\\IProductService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Services\\ProductService\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:18:19.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T15:41:11.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\appsettings.json",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T13:29:58.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UriData.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\UriData.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\UriData.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\UriData.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\UriData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T07:27:59.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T18:53:38.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\appsettings.json",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T17:08:39.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Services\\CategoryService\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Services\\CategoryService\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:46:08.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Services\\CategoryService\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Services\\CategoryService\\ICategoryService.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Services\\CategoryService\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T18:16:02.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Commodity.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Entities\\Commodity.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.Domain\\Entities\\Commodity.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Entities\\Commodity.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.Domain\\Entities\\Commodity.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:13:21.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T13:30:08.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20240921145238_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Migrations\\20240921145238_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Migrations\\20240921145238_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Migrations\\20240921145238_InitialCreate.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Migrations\\20240921145238_InitialCreate.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T14:52:40.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\WeatherForecast.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T19:47:03.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:17:12.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\libman.json",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\libman.json",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\libman.json",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-11T21:32:18.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Web253502Nikolaychik.API.csproj",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj",
-              "RelativeToolTip": "Web253502Nikolaychik.API\\Web253502Nikolaychik.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T19:52:25.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T17:09:11.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:23:25.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Layout.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\Layout.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Layout.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:23:03.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T09:01:38.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T19:23:29.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T08:55:16.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T20:55:59.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T11:30:57.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T15:35:55.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ListDemo.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Models\\ListDemo.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Models\\ListDemo.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Models\\ListDemo.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Models\\ListDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:29:23.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Cart.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Controllers\\Cart.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Cart.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Controllers\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T08:55:20.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Account.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Controllers\\Account.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Controllers\\Account.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Controllers\\Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T10:16:53.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "LogOut.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Account\\LogOut.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Account\\LogOut.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Account\\LogOut.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Account\\LogOut.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T10:16:50.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Web253502Nikolaychik.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj",
-              "RelativeToolTip": "Web253502Nikolaychik.Domain\\Web253502Nikolaychik.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-11T21:26:04.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "_UserInfoPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T20:56:26.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "CartSummary.cs",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\ViewComponents\\CartSummary.cs",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\ViewComponents\\CartSummary.cs",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\ViewComponents\\CartSummary.cs",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\ViewComponents\\CartSummary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:24:15.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T12:09:01.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Web253502Nikolaychik.UI\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Web253502Nikolaychik.UI\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Web253502Nikolaychik.UI\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T12:09:03.194Z"
             }
           ]
         },

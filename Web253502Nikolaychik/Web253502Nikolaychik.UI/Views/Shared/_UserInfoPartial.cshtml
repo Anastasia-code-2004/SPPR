@@ -1,29 +1,52 @@
-﻿@await Component.InvokeAsync("CartSummary")
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
 
-<div class="dropdown ms-4 nav-color">
-    <button class="btn btn-secondary dropdown-toggle"
-            type="button" id="dropdownMenuButton"
-            data-bs-toggle="dropdown"
-            aria-expanded="false">
-        User@gmail.com
-        <img src="images/default-profile-picture.png" width="30"
-             alt="User" class="rounded nav-color" />
-    </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <li>
-            <span class="dropdown-item-text">
-                <img src="images/default-profile-picture.png"
-                     width="50" alt="User" class="rounded" />
-                user@gmail.com
-            </span>
-        </li>
-        <li><hr class="dropdown-divider"></li>
-        <li>
-            <form id="logoutForm">
-                <button asp-controller="Account" asp-action="Logout" id="logout" type="submit" class="nav-link btn btn-link text-dark">
-                    Logout
-                </button>
-            </form>
-        </li>
-    </ul>
-</div>
+@{
+    // Получаем информацию о пользователе
+    var isAuthenticated = User.Identity.IsAuthenticated;
+    var name = User.Claims.FirstOrDefault(c => c.Type.Equals("preferred_username", StringComparison.OrdinalIgnoreCase))?.Value;
+    var avatar = User.Claims.FirstOrDefault(c => c.Type.Equals("avatar", StringComparison.OrdinalIgnoreCase))?.Value ?? "/images/default-profile-picture.png";
+}
+
+<!-- Проверяем, аутентифицирован ли пользователь -->
+@if (isAuthenticated)
+{
+    <!-- Если пользователь аутентифицирован -->
+    @await Component.InvokeAsync("CartSummary")
+
+    <div class="dropdown ms-4 nav-color">
+        <button class="btn btn-secondary dropdown-toggle"
+                type="button" id="dropdownMenuButton"
+                data-bs-toggle="dropdown"
+                aria-expanded="false">
+            @name
+            <img src="@avatar" width="30"
+                 alt="@name" class="rounded nav-color" />
+        </button>
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <li>
+                <span class="dropdown-item-text">
+                    <img src="@avatar"
+                         width="50" alt="@name" class="rounded" />
+                    @name
+                </span>
+            </li>
+            <li><hr class="dropdown-divider"></li>
+            <li>
+                <form method="post" asp-controller="Account" asp-action="Logout">
+                    <button type="submit" class="dropdown-item text-dark">
+                        Logout
+                    </button>
+                </form>
+            </li>
+        </ul>
+    </div>
+}
+else
+{
+    <!-- Если пользователь не аутентифицирован -->
+    <div class="d-flex ms-auto">
+        <a asp-controller="Account" asp-action="Login" class="nav-link text-light">Login</a>
+        <a asp-controller="Account" asp-action="Register" class="nav-link text-light ms-3">Register</a>
+    </div>
+}

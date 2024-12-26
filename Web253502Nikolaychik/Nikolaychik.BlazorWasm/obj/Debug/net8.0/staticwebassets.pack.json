@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\obj\\Debug\\net8.0\\compressed\\0uycec4k0z.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Nikolaychik.BlazorWasm.styles.css",
+      "PackagePath": "staticwebassets\\Nikolaychik.BlazorWasm.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.BlazorWasm\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nikolaychik.BlazorWasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nikolaychik.BlazorWasm.props",
+      "PackagePath": "build\\Nikolaychik.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nikolaychik.BlazorWasm.props",
+      "PackagePath": "buildMultiTargeting\\Nikolaychik.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nikolaychik.BlazorWasm.props",
+      "PackagePath": "buildTransitive\\Nikolaychik.BlazorWasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

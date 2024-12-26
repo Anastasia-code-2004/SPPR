@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Nikolaychik.Blazor.SSR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nikolaychik.Blazor.SSR.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\naaan\\source\\repos\\SPPR\\Web253502Nikolaychik\\Nikolaychik.Blazor.SSR\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nikolaychik.Blazor.SSR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nikolaychik.Blazor.SSR.props",
+      "PackagePath": "build\\Nikolaychik.Blazor.SSR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nikolaychik.Blazor.SSR.props",
+      "PackagePath": "buildMultiTargeting\\Nikolaychik.Blazor.SSR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nikolaychik.Blazor.SSR.props",
+      "PackagePath": "buildTransitive\\Nikolaychik.Blazor.SSR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
